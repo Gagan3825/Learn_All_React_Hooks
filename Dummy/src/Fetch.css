@@ -1,0 +1,32 @@
+
+*{
+ background-color: rgb(218, 196, 196);
+}
+.container{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.image{
+    border: 2px solid rgb(218, 196, 196);
+    /* border-color: red; */
+    border-radius: 10px;
+    height: 350px;
+    width: 350px;
+}
+.buttonclass{
+    display: flex;
+    flex-direction: row;
+    margin-top: 2rem;
+    justify-content: center;
+}
+.button{
+    background-color: rgba(7, 45, 231, 0.877);
+    color: white;
+    height: 50px;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}

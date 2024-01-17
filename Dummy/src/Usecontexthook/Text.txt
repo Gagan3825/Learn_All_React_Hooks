@@ -1,0 +1,2 @@
+Usecontext hook is used in the case of prop drilling.
+Prop drilling means when data is based in a nested component
